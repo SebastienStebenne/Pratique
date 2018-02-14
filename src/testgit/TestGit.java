@@ -17,7 +17,7 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println("Je suis senser travailler sur une seconde branch");
         
-        Integer[] t = new Integer[10];
+       Integer[] t = new Integer[10];
         
         for(int i = 0; i < t.length; i++){
             
@@ -28,6 +28,20 @@ public class TestGit {
             
             System.out.println("Un nombre : " + t[i]);
         }
+        
+        
+    }
+    
+    private void Deux(){
+        
+        System.out.println("Je s le branch de seb");
+
+    }
+    
+    private void Changement(){
+        
+        System.out.println("Je suis un changement dans le branch de seb");
+       
     }
     
 }
