@@ -16,6 +16,14 @@ public class TestGit {
      */
     public static void main(String[] args) {
         System.out.println("Je suis senser travailler sur une seconde branch");
+        
+        
+        
+    }
+    
+    private void Changement(){
+        
+        System.out.println("Je suis un changement dans le branch de seb");
     }
     
 }
