@@ -21,6 +21,12 @@ public class TestGit {
         
     }
     
+    private void Deux(){
+        
+        System.out.println("Je s le branch de seb");
+
+    }
+    
     private void Changement(){
         
         System.out.println("Je suis un changement dans le branch de seb");
