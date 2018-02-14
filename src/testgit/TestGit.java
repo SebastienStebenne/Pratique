@@ -16,6 +16,18 @@ public class TestGit {
      */
     public static void main(String[] args) {
         System.out.println("Je suis senser travailler sur une seconde branch");
+        
+        Integer[] t = new Integer[10];
+        
+        for(int i = 0; i < t.length; i++){
+            
+            t[i] = i + 2;
+        }
+        
+        for(int i = 0; i < t.length ; i++){
+            
+            System.out.println("Un nombre : " + t[i]);
+        }
     }
     
 }
